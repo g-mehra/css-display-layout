@@ -37,7 +37,8 @@
 }
 
 .Container2{
-  width: 95%;
+  box-sizing: border-box;
+  /*width: 95%;*/
   margin-top: 15px;
   background-color: #7FFFD4;
   margin-left: 15px;
