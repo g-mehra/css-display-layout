@@ -34,8 +34,50 @@
   margin-right: 1px;
   margin-top: 1px;
 
+}
+
+.Container2{
+  width: 100%;
+  margin-top: 15px;
+  background-color: #7FFFD4;
+}
+
+.photocounter {
 
 
+  display: inline-block;
+  margin-top: 0px;
+  /*margin-left: 15px;*/
+  font-size: 25px;
+  font-family: "Helvetica Neue", sans-serif;
+  padding: 5px;
+
+}
+
+
+.ImageContainer {
+  display: inline-block;
+  width: 100%;
+  padding-top: 10px;
+  margin-left: 15px;
+
+}
+
+.Image {
+  display: inline-table;
+  /*width: 32%;*/
+}
+
+footer {
+  background-color: gold;
+  text-align: center;
+  padding: 5px;
+  color: blue;
+  margin-bottom: 13px;
+
+
+
+}
 
 
 
